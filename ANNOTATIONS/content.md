@@ -11,3 +11,5 @@
 
     RUNTIME: 
         YOU CAN USE REFLECTION
+
+as annotations ao menos no spring aop não funcionam em metodos privados
