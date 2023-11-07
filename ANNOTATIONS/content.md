@@ -13,3 +13,9 @@
         YOU CAN USE REFLECTION
 
 as annotations ao menos no spring aop não funcionam em metodos privados
+
+## TARGET TYPES
+
+    usado para especificar qual tipo é destinada a annotation
+
+    https://www.geeksforgeeks.org/java-target-annotations/
